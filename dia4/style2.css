@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+body {
+    background-color: #f3f3f3
+}
+
+header {
+    background-color: #003366;
+    color: white;
+}
+
+main {
+    background-color: aquamarine;
+}
+
+footer {
+    background-color: #2f7fb0;
+}
+
+h1 {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
